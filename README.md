@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨I’m <h1>Luis Angel Bustamante<h1><br>🔭 I’m currently working on FitSquad<br>👯 I’m looking to collaborate on @Danhe22<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React.js<br>💬 Ask me about any topic<br>⚡ Fun fact
+ 👨I’m <h1>Luis Angel Bustamante</h1><br>🔭 I’m currently working on FitSquad<br>👯 I’m looking to collaborate on @Danhe22<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React.js<br>💬 Ask me about any topic<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
